@@ -14,10 +14,10 @@ Patient Login in
 ![image](https://github.com/user-attachments/assets/2169e38e-8311-411d-9fce-4d6cf1c95804)
 
 Patient Dashboard
-![image](https://github.com/user-attachments/assets/44bf26fc-d306-466d-8fa9-4f80c4004d5c)
+![image](https://github.com/user-attachments/assets/bf633329-c23e-4af0-8a13-fc3a012a7ace)
 
 Book Appointment
-![image](https://github.com/user-attachments/assets/bf633329-c23e-4af0-8a13-fc3a012a7ace)
+![image](https://github.com/user-attachments/assets/44bf26fc-d306-466d-8fa9-4f80c4004d5c)
 
 My Appointments
 ![image](https://github.com/user-attachments/assets/8c963db7-e252-40b4-aff9-4a54981d238a)
