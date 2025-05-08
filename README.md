@@ -2,8 +2,8 @@
 This application is a patient medicine and appointment booking management system where patient can book appointments and view the medication lists prescribed by the doctor 
 
 # Features:
-Patient - book and view the appointment, view the medication list 
-Docotr -  add the doctor name, view the appointment lists, assign medication for the patient
+Patient - book and view the appointment, view the medication list | 
+Doctor -  add the doctor name, view the appointment lists, assign medication for the patient
 
 Doctor signs up to add his name
 ![image](https://github.com/user-attachments/assets/ebef27d5-4082-4d74-a3d0-f7f03415fe00)
