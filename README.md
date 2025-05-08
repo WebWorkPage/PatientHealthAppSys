@@ -1,7 +1,7 @@
 # Patient Medicine and Appointment System using Spring and thymeleaf
 This application is a patient medicine and appointment booking management system where patient can book appointments and view the medication lists prescribed by the doctor 
 
-Features:
+# Features:
 Patient - book and view the appointment, view the medication list 
 Docotr -  add the doctor name, view the appointment lists, assign medication for the patient
 
